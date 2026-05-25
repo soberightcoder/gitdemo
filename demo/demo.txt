@@ -1,4 +1,4 @@
 
 ！！！！ git revert b !!!!!
 
-！！！！ git revert c ！！！！
+！！！！ git revert c ！！！！ fix bug
