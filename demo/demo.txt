@@ -1,4 +1,2 @@
 
 ！！！！ git revert b !!!!!
-
-！！！！ git revert c ！！！！
